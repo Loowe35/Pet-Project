@@ -1,0 +1,120 @@
+﻿<Page x:Class="EconSense.Pages.Drivers"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EconSense.Pages"
+      mc:Ignorable="d" 
+       d:DesignHeight="1032" d:DesignWidth="1456"
+      Title="Drivers">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <LinearGradientBrush.RelativeTransform>
+                    <TransformGroup>
+                        <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                        <SkewTransform CenterX="0.5" CenterY="0.5"/>
+                        <RotateTransform Angle="270" CenterX="0.5" CenterY="0.5"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </LinearGradientBrush.RelativeTransform>
+                <GradientStop Color="#FFA8E6CF"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <StackPanel x:Name="SearchView" Margin="0,0,0,594">
+            <Label Content="Поиск" FontSize="36" Margin="50,50,0,0" Width="1404"/>
+            <TextBox x:Name="Search" TextWrapping="Wrap" Width="232" HorizontalAlignment="Left" FontSize="22" Margin="50,0,0,0" TextChanged="Search_TextChanged_1"/>
+            <Button Content="Добавить" Width="290" HorizontalAlignment="Right" Margin="0,230,30,0" Click="Button_Click_1" FontSize="24" Height="45"/>
+        </StackPanel>
+
+        <ScrollViewer Margin="-10,438,10,0">
+            <ListView x:Name="DriversView" d:ItemsSource="{d:SampleData ItemCount=5}" FontSize="20" Height="596" Width="1456" SelectionChanged="DriversView_SelectionChanged">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Фамилия" Width="150">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding LastName}" TextWrapping="Wrap" FontSize="20" TextAlignment="Center" />
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                        <GridViewColumn Header="Имя" Width="150">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding FirstName}" TextWrapping="Wrap" FontSize="20" TextAlignment="Center"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                        <GridViewColumn Header="Отчество" Width="150">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Patronymic}" TextWrapping="Wrap" FontSize="20" TextAlignment="Center"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                        <GridViewColumn Header="Серия и номер паспорта" Width="300">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding PassportSeriesAndNumber}" TextWrapping="Wrap" FontSize="20" TextAlignment="Center"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                        <GridViewColumn Header="Номер телефона" Width="230">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding PhoneNumber}" TextWrapping="Wrap" FontSize="20" TextAlignment="Center"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                        <GridViewColumn Header="Почта" Width="200" >
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Email}" TextWrapping="Wrap" FontSize="20" TextAlignment="Center"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                        <GridViewColumn Header="Дата окончания В.У." Width="250">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding DrivingLicenseExpiryDate}" TextWrapping="Wrap" FontSize="20" TextAlignment="Center"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </ScrollViewer>
+        <Grid Margin="0,0,0,594" x:Name="AddView" Visibility="Collapsed">
+            <Label Content="Фамилия" HorizontalAlignment="Left" Margin="159,51,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <TextBox DataObject.Pasting="LastName_Pasting" x:Name="LastName" HorizontalAlignment="Left" Margin="39,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="338" FontSize="22" PreviewTextInput="LastName_PreviewTextInput"/>
+            <Label Content="Имя" HorizontalAlignment="Left" Margin="183,137,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <TextBox DataObject.Pasting="FirstName_Pasting"  x:Name="FirstName" HorizontalAlignment="Left" Margin="39,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="338" FontSize="22" PreviewTextInput="FirstName_PreviewTextInput"/>
+            <Label Content="Отчество" HorizontalAlignment="Left" Margin="157,215,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <TextBox DataObject.Pasting="Patr_Pasting"  x:Name="Patr" HorizontalAlignment="Left" Margin="39,252,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="338" FontSize="22" PreviewTextInput="Patr_PreviewTextInput"/>
+            <Label Content="Серия и номер паспорта" HorizontalAlignment="Left" Margin="619,51,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <TextBox DataObject.Pasting="Pasport_Pasting"  MaxLength="10" x:Name="Pasport" HorizontalAlignment="Left" Margin="579,97,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="338" FontSize="22" PreviewTextInput="Pasport_PreviewTextInput"/>
+            <Label Content="Номер телефона" HorizontalAlignment="Left" Margin="660,137,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <TextBox DataObject.Pasting="Phone_Pasting"  MaxLength="11" x:Name="Phone" HorizontalAlignment="Left" Margin="580,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="338" FontSize="22" PreviewTextInput="Phone_PreviewTextInput"/>
+            <Label Content="Почта" HorizontalAlignment="Left" Margin="714,215,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <TextBox x:Name="Mail" HorizontalAlignment="Left" Margin="580,252,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="338" FontSize="22"/>
+            <Label Content="Дата окончания В.У." HorizontalAlignment="Left" Margin="1137,51,0,0" VerticalAlignment="Top" FontSize="22"/>
+
+            <Button x:Name="Save" Content="Сохранить" HorizontalAlignment="Left" Margin="1227,360,0,0" VerticalAlignment="Top" FontSize="24" Height="42" Width="184" Click="Save_Click"/>
+            <Button x:Name="Cancel" Content="Отмена" HorizontalAlignment="Left" Margin="992,360,0,0" VerticalAlignment="Top" FontSize="24" Height="42" Width="184" Click="Button_Click_2"/>
+            <DatePicker DataObject.Pasting="Date_Pasting"  x:Name="Date" HorizontalAlignment="Left" Margin="1073,99,0,0" VerticalAlignment="Top" Height="38" Width="338" FontSize="22" PreviewTextInput="Date_PreviewTextInput"/>
+            <Label x:Name="LoginLab" Content="Логин" HorizontalAlignment="Left" Margin="1214,137,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <TextBox x:Name="Login" HorizontalAlignment="Left" Margin="1073,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="338" FontSize="22"/>
+            <Label x:Name="PasswordLab" Content="Пароль" HorizontalAlignment="Left" Margin="1207,215,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <TextBox x:Name="Password" HorizontalAlignment="Left" Margin="1073,252,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="338" FontSize="22"/>
+
+        </Grid>
+    </Grid>
+</Page>

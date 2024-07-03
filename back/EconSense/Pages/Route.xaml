@@ -1,0 +1,92 @@
+﻿<Page x:Class="EconSense.Pages.Route"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EconSense.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="1032" d:DesignWidth="1456"
+      Title="Route">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <LinearGradientBrush.RelativeTransform>
+                    <TransformGroup>
+                        <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                        <SkewTransform CenterX="0.5" CenterY="0.5"/>
+                        <RotateTransform Angle="270" CenterX="0.5" CenterY="0.5"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </LinearGradientBrush.RelativeTransform>
+                <GradientStop Color="#FFA8E6CF"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <StackPanel x:Name="RoutHide" Margin="393,71,393,579">
+            <Label Content="Название маршрута" FontSize="24" HorizontalAlignment="Center"/>
+            <Label/>
+            <TextBox x:Name="Name" TextWrapping="Wrap" Width="284" FontSize="24" HorizontalAlignment="Center"/>
+            <Label/>
+            <Label Content="Начальная точка" FontSize="24" HorizontalAlignment="Center"/>
+            <Label/>
+            <ComboBox  x:Name="Start" Width="284" FontSize="24" HorizontalAlignment="Center">
+                <ComboBoxItem>Белебей</ComboBoxItem>
+                <ComboBoxItem>Аксаково</ComboBoxItem>
+                <ComboBoxItem>Приютово</ComboBoxItem>
+            </ComboBox>
+            <Label/>
+            <Label Content="Конечная точка" FontSize="24" HorizontalAlignment="Center"/>
+            <Label/>
+            <ComboBox x:Name="End"  Width="284" FontSize="24" HorizontalAlignment="Center">
+                <ComboBoxItem>Раевка</ComboBoxItem>
+                <ComboBoxItem>Балкан</ComboBoxItem>
+                <ComboBoxItem>Новосепяшево</ComboBoxItem>
+                <ComboBoxItem>Баймурзино</ComboBoxItem>
+                <ComboBoxItem>Алексеевка</ComboBoxItem>
+                <ComboBoxItem>Тукай</ComboBoxItem>
+                <ComboBoxItem>Исмагулово</ComboBoxItem>
+            </ComboBox>
+            <Label/>
+            <Label Content="Длина маршрута (км.)" FontSize="24" HorizontalAlignment="Center"/>
+            <Label/>
+            <TextBox DataObject.Pasting="Dlina_Pasting"  x:Name="Dlina" TextWrapping="Wrap" Width="284" FontSize="24" HorizontalAlignment="Center" PreviewTextInput="Dlina_PreviewTextInput"/>
+            <Label/>
+        </StackPanel>
+        <Label Content="Составление маршрута" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontSize="36"/>
+        <DataGrid x:Name="RouteFullView" Margin="0,463,0,0" Background="{x:Null}" FontSize="24" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Название маршрута" Binding="{Binding RouteName}" Width="300"/>
+                <DataGridTextColumn Header="Начальная точка" Binding="{Binding StartingPoint}" Width="250"/>
+                <DataGridTextColumn Header="Конечная точка" Binding="{Binding EndingPoint}" Width="230"/>
+                <DataGridTextColumn Header="Название дороги" Binding="{Binding RoadName}" Width="250"/>
+                <DataGridTextColumn Header="Длина дороги" Binding="{Binding RoadLength}" Width="200"/>
+                <DataGridTextColumn Header="Точка прибытия" Binding="{Binding ArrivalPoint}" Width="230"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="SaveRoute" Content="Сохранить" HorizontalAlignment="Left" Margin="1136,316,0,0" VerticalAlignment="Top" FontSize="24" Height="44" Width="159" Click="SaveRoute_Click"/>
+        <Button x:Name="SaveRoad" Visibility="Collapsed"  Content="Сохранить" HorizontalAlignment="Left" Margin="1136,316,0,0" VerticalAlignment="Top" FontSize="24" Height="44" Width="159" Click="SaveRoad_Click"/>
+        <StackPanel x:Name="RoadHide" Margin="310,66,390,574" Visibility="Collapsed">
+            <Label Content="Название дороги" FontSize="24" HorizontalContentAlignment="Center"/>
+            <Label/>
+            <TextBox x:Name="NameRoad" TextWrapping="Wrap" Width="284" FontSize="24"/>
+            <Label/>
+            <Label  Content="Длина дороги" FontSize="24" HorizontalContentAlignment="Center"/>
+            <Label/>
+            <TextBox DataObject.Pasting="length_Pasting"  x:Name="length" TextWrapping="Wrap" Width="284" FontSize="24" PreviewTextInput="length_PreviewTextInput"/>
+            <Label/>
+            <Label Content="Точка прибытия" FontSize="24" HorizontalContentAlignment="Center"/>
+            <Label/>
+            <ComboBox x:Name="arrival" Width="284" FontSize="24">
+                <ComboBoxItem>Раевка</ComboBoxItem>
+                <ComboBoxItem>Балкан</ComboBoxItem>
+                <ComboBoxItem>Новосепяшево</ComboBoxItem>
+                <ComboBoxItem>Баймурзино</ComboBoxItem>
+                <ComboBoxItem>Алексеевка</ComboBoxItem>
+                <ComboBoxItem>Тукай</ComboBoxItem>
+                <ComboBoxItem>Исмагулово</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+        <Button Visibility="Collapsed" x:Name="Choose" Content="Выбрать водителя/транспорт" HorizontalAlignment="Left" Margin="1016,390,0,0" VerticalAlignment="Top" FontSize="24" Height="44" Width="399" Click="Choose_Click"/>
+    </Grid>
+</Page>

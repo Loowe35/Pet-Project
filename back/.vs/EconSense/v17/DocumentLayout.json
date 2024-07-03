@@ -1,0 +1,968 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\report.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\fullwaybill.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\fullwaybill.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\fullwaybill.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\fullwaybill.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\viewwaybills.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\viewwaybills.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\report.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\transport_vehicle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\transport_vehicle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\viewwaybills.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\viewwaybills.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\transport_vehicle.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\transport_vehicle.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\staff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\staff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\route.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\route.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\expenses.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\expenses.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\drivers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\drivers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\dismissed_employees.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\dismissed_employees.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\choose.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\choose.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\cargos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\cargos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\cargos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\cargos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\box\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\box\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\box\\economist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\box\\economist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\box\\economist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\box\\economist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\expenses.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\expenses.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\drivers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\drivers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\dismissed_employees.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\dismissed_employees.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\choose.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\choose.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\route.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\route.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\model\\economcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\model\\economcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\model\\waybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\model\\waybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\box\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\box\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\classes\\id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\classes\\id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\cards\\dismissed .xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\cards\\dismissed .xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\staff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\staff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\cards\\dismissed .xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\cards\\dismissed .xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\model\\transportexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\model\\transportexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\cards\\staffers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\cards\\staffers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\actions\\editstaff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\actions\\editstaff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\cards\\staffers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\cards\\staffers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\cards\\editstaff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\cards\\editstaff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\actions\\editstaff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\actions\\editstaff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\actions\\addstaff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\actions\\addstaff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\box\\guide.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\box\\guide.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\box\\guide.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\box\\guide.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\actions\\addstaff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\actions\\addstaff.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\cards\\editstaff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\cards\\editstaff.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\model\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\model\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\box\\recoverypassword\\recoveryemail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\box\\recoverypassword\\recoveryemail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\box\\recoverypassword\\recoveryemail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\box\\recoverypassword\\recoveryemail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\model\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\model\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\classes\\navigate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\classes\\navigate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\model\\road.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\model\\road.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\model\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\model\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\model\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\model\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\econsense.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\econsense.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\box\\recoverypassword\\recovery.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\box\\recoverypassword\\recovery.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\box\\recoverypassword\\recovery.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\box\\recoverypassword\\recovery.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\classes\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\classes\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|c:\\users\\shaki\\desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\econsense\\econsense\\pages\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD38751-0CB5-4496-8535-248F665AFF0F}|EconSense\\EconSense.csproj|solutionrelative:econsense\\pages\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FullWaybill.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\FullWaybill.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\FullWaybill.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\FullWaybill.xaml.cs",
+              "RelativeToolTip": "EconSense\\Pages\\FullWaybill.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T06:27:49.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Report.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Report.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Report.xaml.cs",
+              "RelativeToolTip": "EconSense\\Pages\\Report.xaml.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T04:22:58.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Route.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Route.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Route.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Route.xaml.cs",
+              "RelativeToolTip": "EconSense\\Pages\\Route.xaml.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAD4v1AAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:59:21.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Staff.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Staff.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Staff.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Staff.xaml.cs",
+              "RelativeToolTip": "EconSense\\Pages\\Staff.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwCgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:16:41.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "transport_vehicle.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\transport_vehicle.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\transport_vehicle.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\transport_vehicle.xaml.cs",
+              "RelativeToolTip": "EconSense\\Pages\\transport_vehicle.xaml.cs",
+              "ViewState": "AQIAAAcBAAAAAAAAAAAmwAEBAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T03:50:06.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewWaybills.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\ViewWaybills.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\ViewWaybills.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\ViewWaybills.xaml.cs",
+              "RelativeToolTip": "EconSense\\Pages\\ViewWaybills.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:22:30.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewWaybills.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\ViewWaybills.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\ViewWaybills.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\ViewWaybills.xaml",
+              "RelativeToolTip": "EconSense\\Pages\\ViewWaybills.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T04:18:34.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "transport_vehicle.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\transport_vehicle.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\transport_vehicle.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\transport_vehicle.xaml",
+              "RelativeToolTip": "EconSense\\Pages\\transport_vehicle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T03:40:39.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Report.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Report.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Report.xaml",
+              "RelativeToolTip": "EconSense\\Pages\\Report.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-29T04:19:03.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FullWaybill.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\FullWaybill.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\FullWaybill.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\FullWaybill.xaml",
+              "RelativeToolTip": "EconSense\\Pages\\FullWaybill.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T06:13:41.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Expenses.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Expenses.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Expenses.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Expenses.xaml.cs",
+              "RelativeToolTip": "EconSense\\Pages\\Expenses.xaml.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAwwNMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T05:42:34.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Drivers.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Drivers.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Drivers.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Drivers.xaml.cs",
+              "RelativeToolTip": "EconSense\\Pages\\Drivers.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:04:23.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dismissed_employees.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Dismissed_employees.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Dismissed_employees.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Dismissed_employees.xaml.cs",
+              "RelativeToolTip": "EconSense\\Pages\\Dismissed_employees.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:07:21.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Choose.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Choose.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Choose.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Choose.xaml.cs",
+              "RelativeToolTip": "EconSense\\Pages\\Choose.xaml.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAqwMYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:53:07.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cargos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Cargos.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Cargos.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Cargos.xaml.cs",
+              "RelativeToolTip": "EconSense\\Pages\\Cargos.xaml.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAgwKIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:24:51.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cargos.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Cargos.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Cargos.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Cargos.xaml",
+              "RelativeToolTip": "EconSense\\Pages\\Cargos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T14:20:54.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Authorization.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\Authorization.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Box\\Authorization.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\Authorization.xaml.cs",
+              "RelativeToolTip": "EconSense\\Box\\Authorization.xaml.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T06:11:11.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Economist.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\Economist.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Box\\Economist.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\Economist.xaml.cs",
+              "RelativeToolTip": "EconSense\\Box\\Economist.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAiwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:12:36.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Economist.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\Economist.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Box\\Economist.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\Economist.xaml",
+              "RelativeToolTip": "EconSense\\Box\\Economist.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T04:11:46.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EconSense\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\MainWindow.xaml",
+              "RelativeToolTip": "EconSense\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-19T16:03:02.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Expenses.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Expenses.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Expenses.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Expenses.xaml",
+              "RelativeToolTip": "EconSense\\Pages\\Expenses.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T05:04:34.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Route.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Route.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Route.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Route.xaml",
+              "RelativeToolTip": "EconSense\\Pages\\Route.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T14:59:07.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Menu.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Menu.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Menu.xaml",
+              "RelativeToolTip": "EconSense\\Pages\\Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T08:14:00.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Choose.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Choose.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Choose.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Choose.xaml",
+              "RelativeToolTip": "EconSense\\Pages\\Choose.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T03:44:32.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Drivers.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Drivers.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Drivers.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Drivers.xaml",
+              "RelativeToolTip": "EconSense\\Pages\\Drivers.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T06:35:48.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dismissed_employees.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Dismissed_employees.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Dismissed_employees.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Dismissed_employees.xaml",
+              "RelativeToolTip": "EconSense\\Pages\\Dismissed_employees.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T04:04:19.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Waybill.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\Waybill.cs",
+              "RelativeDocumentMoniker": "EconSense\\Model\\Waybill.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\Waybill.cs",
+              "RelativeToolTip": "EconSense\\Model\\Waybill.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:55:34.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EconomContext.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\EconomContext.cs",
+              "RelativeDocumentMoniker": "EconSense\\Model\\EconomContext.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\EconomContext.cs",
+              "RelativeToolTip": "EconSense\\Model\\EconomContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:32:11.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Authorization.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\Authorization.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Box\\Authorization.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\Authorization.xaml",
+              "RelativeToolTip": "EconSense\\Box\\Authorization.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T06:08:48.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Staff.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Staff.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Staff.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Staff.xaml",
+              "RelativeToolTip": "EconSense\\Pages\\Staff.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T09:13:01.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Dismissed .xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Cards\\Dismissed .xaml",
+              "RelativeDocumentMoniker": "EconSense\\Cards\\Dismissed .xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Cards\\Dismissed .xaml",
+              "RelativeToolTip": "EconSense\\Cards\\Dismissed .xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T04:06:25.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ID.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Classes\\ID.cs",
+              "RelativeDocumentMoniker": "EconSense\\Classes\\ID.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Classes\\ID.cs",
+              "RelativeToolTip": "EconSense\\Classes\\ID.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:40:48.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TransportExpense.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\TransportExpense.cs",
+              "RelativeDocumentMoniker": "EconSense\\Model\\TransportExpense.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\TransportExpense.cs",
+              "RelativeToolTip": "EconSense\\Model\\TransportExpense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:43:35.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Dismissed .xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Cards\\Dismissed .xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Cards\\Dismissed .xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Cards\\Dismissed .xaml.cs",
+              "RelativeToolTip": "EconSense\\Cards\\Dismissed .xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwCQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T04:08:23.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EditStaff.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Actions\\EditStaff.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Actions\\EditStaff.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Actions\\EditStaff.xaml.cs",
+              "RelativeToolTip": "EconSense\\Pages\\Actions\\EditStaff.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAhwCUAAAArAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T07:07:46.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EditStaff.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Cards\\EditStaff.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Cards\\EditStaff.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Cards\\EditStaff.xaml.cs",
+              "RelativeToolTip": "EconSense\\Cards\\EditStaff.xaml.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAkwMQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T07:17:14.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Staffers.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Cards\\Staffers.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Cards\\Staffers.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Cards\\Staffers.xaml.cs",
+              "RelativeToolTip": "EconSense\\Cards\\Staffers.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwCQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:09:44.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Staffers.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Cards\\Staffers.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Cards\\Staffers.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Cards\\Staffers.xaml",
+              "RelativeToolTip": "EconSense\\Cards\\Staffers.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T10:58:38.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddStaff.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Actions\\AddStaff.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Actions\\AddStaff.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Actions\\AddStaff.xaml",
+              "RelativeToolTip": "EconSense\\Pages\\Actions\\AddStaff.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T12:27:06.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EditStaff.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Actions\\EditStaff.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Actions\\EditStaff.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Actions\\EditStaff.xaml",
+              "RelativeToolTip": "EconSense\\Pages\\Actions\\EditStaff.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T07:07:03.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Guide.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\Guide.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Box\\Guide.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\Guide.xaml.cs",
+              "RelativeToolTip": "EconSense\\Box\\Guide.xaml.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswFYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:07:06.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Guide.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\Guide.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Box\\Guide.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\Guide.xaml",
+              "RelativeToolTip": "EconSense\\Box\\Guide.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T07:42:26.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddStaff.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Actions\\AddStaff.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Actions\\AddStaff.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Actions\\AddStaff.xaml.cs",
+              "RelativeToolTip": "EconSense\\Pages\\Actions\\AddStaff.xaml.cs",
+              "ViewState": "AQIAAAwBAAAAAAAAAAAcwCoBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:33:22.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EditStaff.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Cards\\EditStaff.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Cards\\EditStaff.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Cards\\EditStaff.xaml",
+              "RelativeToolTip": "EconSense\\Cards\\EditStaff.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T07:16:32.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RecoveryEmail.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\RecoveryPassword\\RecoveryEmail.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Box\\RecoveryPassword\\RecoveryEmail.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\RecoveryPassword\\RecoveryEmail.xaml",
+              "RelativeToolTip": "EconSense\\Box\\RecoveryPassword\\RecoveryEmail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T03:22:57.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\Transport.cs",
+              "RelativeDocumentMoniker": "EconSense\\Model\\Transport.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\Transport.cs",
+              "RelativeToolTip": "EconSense\\Model\\Transport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:43:44.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RecoveryEmail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\RecoveryPassword\\RecoveryEmail.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Box\\RecoveryPassword\\RecoveryEmail.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\RecoveryPassword\\RecoveryEmail.xaml.cs",
+              "RelativeToolTip": "EconSense\\Box\\RecoveryPassword\\RecoveryEmail.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAqwFMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:27:02.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\Driver.cs",
+              "RelativeDocumentMoniker": "EconSense\\Model\\Driver.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\Driver.cs",
+              "RelativeToolTip": "EconSense\\Model\\Driver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T07:22:25.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Navigate.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Classes\\Navigate.cs",
+              "RelativeDocumentMoniker": "EconSense\\Classes\\Navigate.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Classes\\Navigate.cs",
+              "RelativeToolTip": "EconSense\\Classes\\Navigate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T06:38:35.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Road.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\Road.cs",
+              "RelativeDocumentMoniker": "EconSense\\Model\\Road.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\Road.cs",
+              "RelativeToolTip": "EconSense\\Model\\Road.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:05:30.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\Route.cs",
+              "RelativeDocumentMoniker": "EconSense\\Model\\Route.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\Route.cs",
+              "RelativeToolTip": "EconSense\\Model\\Route.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:00:49.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EconSense",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\EconSense.csproj",
+              "RelativeDocumentMoniker": "EconSense\\EconSense.csproj",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\EconSense.csproj",
+              "RelativeToolTip": "EconSense\\EconSense.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-24T09:36:37.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\Cargo.cs",
+              "RelativeDocumentMoniker": "EconSense\\Model\\Cargo.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\Cargo.cs",
+              "RelativeToolTip": "EconSense\\Model\\Cargo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:32:07.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\User.cs",
+              "RelativeDocumentMoniker": "EconSense\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Model\\User.cs",
+              "RelativeToolTip": "EconSense\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:23:10.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Recovery.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\RecoveryPassword\\Recovery.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Box\\RecoveryPassword\\Recovery.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\RecoveryPassword\\Recovery.xaml.cs",
+              "RelativeToolTip": "EconSense\\Box\\RecoveryPassword\\Recovery.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA7wDIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:18:01.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\App.xaml",
+              "RelativeDocumentMoniker": "EconSense\\App.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\App.xaml",
+              "RelativeToolTip": "EconSense\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T06:08:56.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Recovery.xaml",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\RecoveryPassword\\Recovery.xaml",
+              "RelativeDocumentMoniker": "EconSense\\Box\\RecoveryPassword\\Recovery.xaml",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Box\\RecoveryPassword\\Recovery.xaml",
+              "RelativeToolTip": "EconSense\\Box\\RecoveryPassword\\Recovery.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T03:02:36.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\App.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\App.xaml.cs",
+              "RelativeToolTip": "EconSense\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T06:06:58.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BD.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Classes\\BD.cs",
+              "RelativeDocumentMoniker": "EconSense\\Classes\\BD.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Classes\\BD.cs",
+              "RelativeToolTip": "EconSense\\Classes\\BD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T06:09:42.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "EconSense\\Pages\\Menu.xaml.cs",
+              "ToolTip": "C:\\Users\\shaki\\Desktop\\\u043D\u0430 \u0432\u0441\u044F\u043A\u0438\u0439 \u0441\u043B\u0443\u0447\u0430\u0439\\EconSense\\EconSense\\Pages\\Menu.xaml.cs",
+              "RelativeToolTip": "EconSense\\Pages\\Menu.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwBUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:14:41.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

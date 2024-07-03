@@ -1,0 +1,57 @@
+﻿<UserControl x:Class="EconSense.Cards.EditStaff"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:EconSense.Cards"
+             mc:Ignorable="d" 
+                      d:DesignHeight="600" d:DesignWidth="1456">
+
+    <Border BorderBrush="Black" BorderThickness="5">
+
+        <Grid>
+
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" MappingMode="RelativeToBoundingBox" SpreadMethod="Pad">
+                    <LinearGradientBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                            <SkewTransform CenterX="0.5" CenterY="0.5"/>
+                            <RotateTransform Angle="-90" CenterX="0.5" CenterY="0.5"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </LinearGradientBrush.RelativeTransform>
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="#FFA8E6CF" Offset="0"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+
+            <Label Content="Дата рождения:" HorizontalAlignment="Left" Margin="636,138,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Image Margin="-10,0,1033,140" Source="/Sours/Staffs.png" Stretch="Fill"/>
+            <TextBox x:Name="Fam" DataObject.Pasting="Fam_Pasting"  HorizontalAlignment="Left" Margin="635,41,0,0" VerticalAlignment="Top" FontSize="22" Width="220" FontWeight="Bold" HorizontalContentAlignment="Center" TextAlignment="Center" PreviewTextInput="Fam_PreviewTextInput" />
+            <Label Content="Номер телефона:" HorizontalAlignment="Left" Margin="636,314,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <TextBox MaxLength="11" DataObject.Pasting="phone_Pasting"  TextAlignment="Center" x:Name="phone" HorizontalAlignment="Left" Margin="636,358,0,0" VerticalAlignment="Top" FontSize="22" Width="220" PreviewTextInput="phone_PreviewTextInput" />
+            <Label Content="Почта:" HorizontalAlignment="Left" Margin="1043,138,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <TextBox TextAlignment="Center" x:Name="Mail" HorizontalAlignment="Left" Margin="1043,182,0,0" VerticalAlignment="Top" FontSize="22" Width="220"/>
+            <Label Content="Место проживания:" HorizontalAlignment="Left" Margin="1043,226,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <TextBox TextAlignment="Center" x:Name="place"  HorizontalAlignment="Left" Margin="1043,270,0,0" VerticalAlignment="Top" FontSize="22" Width="220"/>
+            <Label Content="Место прописки" HorizontalAlignment="Left" Margin="1043,314,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <TextBox TextAlignment="Center" x:Name="Fact_place" HorizontalAlignment="Left" Margin="1043,358,0,0" VerticalAlignment="Top" FontSize="22" Width="220"/>
+            <Label Content="Серия и номер паспорта" HorizontalAlignment="Left" Margin="636,226,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <TextBox MaxLength="10" DataObject.Pasting="Pasport_Pasting"  TextAlignment="Center" x:Name="Pasport" HorizontalAlignment="Left" Margin="636,270,0,0" VerticalAlignment="Top" FontSize="22" Width="220" PreviewTextInput="Pasport_PreviewTextInput"/>
+            <ComboBox x:Name="position" HorizontalAlignment="Left" Margin="881,96,0,0" VerticalAlignment="Top" FontSize="22" Width="220">
+                <ComboBoxItem>Проводник</ComboBoxItem>
+                <ComboBoxItem>Экономист</ComboBoxItem>
+            </ComboBox>
+            <TextBox TextAlignment="Center" DataObject.Pasting="Name_Pasting"  x:Name="Name" HorizontalAlignment="Left" Margin="881,41,0,0" VerticalAlignment="Top" FontSize="22" Width="220" FontWeight="Bold" HorizontalContentAlignment="Center" PreviewTextInput="Name_PreviewTextInput"/>
+            <TextBox TextAlignment="Center" DataObject.Pasting="Patr_Pasting"  x:Name="Patr" HorizontalAlignment="Left" Margin="1131,41,0,0" VerticalAlignment="Top" FontSize="22" Width="220" FontWeight="Bold" HorizontalContentAlignment="Center" PreviewTextInput="Patr_PreviewTextInput"/>
+            <Button Content="Сохранить" HorizontalAlignment="Left" Margin="916,474,0,0" VerticalAlignment="Top" FontSize="24" Height="44" Width="152" Background="#FFA9E6D0" Click="Button_Click"/>
+            <DatePicker x:Name="birht" DataObject.Pasting="birht_Pasting"  FontSize="22" HorizontalAlignment="Left" Margin="636,182,0,0" VerticalAlignment="Top" Width="220" PreviewTextInput="birht_PreviewTextInput"/>
+            <Label Content="Фамилия" HorizontalAlignment="Left" Margin="696,4,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="Имя" HorizontalAlignment="Left" Margin="966,4,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="Отчество" HorizontalAlignment="Left" Margin="1190,4,0,0" VerticalAlignment="Top" FontSize="22"/>
+
+        </Grid>
+    </Border>
+</UserControl>

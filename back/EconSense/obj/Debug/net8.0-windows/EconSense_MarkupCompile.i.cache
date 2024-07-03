@@ -1,0 +1,20 @@
+﻿EconSense
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\
+EconSense
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\App.xaml
+231077123678
+1409984244
+41658060052
+2291650864341
+Box\Authorization.xaml;Box\Economist.xaml;Box\Guide.xaml;Box\RecoveryPassword\Recovery.xaml;Box\RecoveryPassword\RecoveryEmail.xaml;Cards\Dismissed .xaml;Cards\EditStaff.xaml;Cards\Staffers.xaml;MainWindow.xaml;Pages\Actions\AddStaff.xaml;Pages\Actions\EditStaff.xaml;Pages\Cargos.xaml;Pages\Choose.xaml;Pages\Dismissed_employees.xaml;Pages\Drivers.xaml;Pages\Expenses.xaml;Pages\FullWaybill.xaml;Pages\Menu.xaml;Pages\Report.xaml;Pages\Route.xaml;Pages\Staff.xaml;Pages\transport_vehicle.xaml;Pages\ViewWaybills.xaml;
+
+True
+

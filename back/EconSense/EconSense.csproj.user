@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Box\Authorization.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Box\Economist.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Box\Guide.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Box\RecoveryPassword\Recovery.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Box\RecoveryPassword\RecoveryEmail.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Cards\Dismissed .xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Cards\EditStaff.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Cards\Staffers.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Actions\AddStaff.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Actions\EditStaff.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Cargos.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Choose.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Dismissed_employees.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Drivers.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Expenses.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\FullWaybill.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Menu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Report.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Route.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Staff.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\transport_vehicle.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\ViewWaybills.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Box\Authorization.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Box\Economist.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Box\Guide.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Box\RecoveryPassword\Recovery.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Box\RecoveryPassword\RecoveryEmail.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Cards\Dismissed .xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Cards\EditStaff.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Cards\Staffers.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Actions\AddStaff.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Actions\EditStaff.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Cargos.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Choose.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Dismissed_employees.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Drivers.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Expenses.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\FullWaybill.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Menu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Report.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Route.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Staff.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\transport_vehicle.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\ViewWaybills.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

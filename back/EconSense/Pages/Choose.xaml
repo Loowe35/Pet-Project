@@ -1,0 +1,37 @@
+﻿<Page x:Class="EconSense.Pages.Choose"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EconSense.Pages"
+      mc:Ignorable="d" 
+        d:DesignHeight="1032" d:DesignWidth="1456"
+  Title="Choose">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <LinearGradientBrush.RelativeTransform>
+                    <TransformGroup>
+                        <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                        <SkewTransform CenterX="0.5" CenterY="0.5"/>
+                        <RotateTransform Angle="270" CenterX="0.5" CenterY="0.5"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </LinearGradientBrush.RelativeTransform>
+                <GradientStop Color="#FFA8E6CF"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <DatePicker DataObject.Pasting="StartWayb_Pasting" x:Name="StartWayb" HorizontalAlignment="Left" Margin="429,188,0,0" VerticalAlignment="Top" FontSize="24" Width="206" PreviewTextInput="StartWayb_PreviewTextInput"/>
+        <DatePicker DataObject.Pasting="EndWayb_Pasting"  x:Name="EndWayb" HorizontalAlignment="Left" Margin="821,188,0,0" VerticalAlignment="Top" FontSize="24" Width="206" PreviewTextInput="EndWayb_PreviewTextInput"/>
+        <Label Content="Дата отправки" HorizontalAlignment="Left" Margin="448,143,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label Content="Дата прибытия" HorizontalAlignment="Left" Margin="840,143,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <DataGrid x:Name="Drivers" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,462,840,0" Background="{x:Null}" FontSize="24" SelectionChanged="Drivers_SelectionChanged" IsReadOnly="True"/>
+        <DataGrid x:Name="Transport" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="840,462,0,0" Background="{x:Null}" FontSize="24" SelectionChanged="Transport_SelectionChanged" IsReadOnly="True"/>
+        <Button x:Name="ChooseDate" Content="Выбрать дату" HorizontalAlignment="Center" Margin="0,262,0,0" VerticalAlignment="Top" FontSize="24" Width="212" Height="38" Click="ChooseDate_Click"/>
+        <Label Content="Свободные водители" HorizontalAlignment="Left" Margin="127,401,0,0" VerticalAlignment="Top" FontSize="36"/>
+        <Label Content="Свободный транспорт" HorizontalAlignment="Left" Margin="959,401,0,0" VerticalAlignment="Top" FontSize="36"/>
+
+    </Grid>
+</Page>

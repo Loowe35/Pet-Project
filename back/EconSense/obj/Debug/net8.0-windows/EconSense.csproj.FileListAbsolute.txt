@@ -1,0 +1,888 @@
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.exe
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.deps.json
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.runtimeconfig.json
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.pdb
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.AssemblyReference.cache
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Authorization.g.cs
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Guide.g.cs
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Staffers.g.cs
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Menu.g.cs
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Staff.g.cs
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense_MarkupCompile.cache
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense_MarkupCompile.lref
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Authorization.baml
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Guide.baml
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Staffers.baml
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Menu.baml
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Staff.baml
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.g.resources
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.AssemblyInfoInputs.cache
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.AssemblyInfo.cs
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.CoreCompileInputs.cache
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.Up2Date
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\refint\EconSense.dll
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.pdb
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.genruntimeconfig.cache
+C:\Users\shaki\Desktop\Диплом\EconSense\EconSense\obj\Debug\net8.0-windows\ref\EconSense.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.exe
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.deps.json
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.runtimeconfig.json
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.pdb
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.AssemblyReference.cache
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Authorization.g.cs
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Guide.g.cs
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Staffers.g.cs
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Menu.g.cs
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Staff.g.cs
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense_MarkupCompile.cache
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense_MarkupCompile.lref
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Authorization.baml
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Guide.baml
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Staffers.baml
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Menu.baml
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Staff.baml
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.g.resources
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.AssemblyInfoInputs.cache
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.AssemblyInfo.cs
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.CoreCompileInputs.cache
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.Up2Date
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\refint\EconSense.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.pdb
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.genruntimeconfig.cache
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\ref\EconSense.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\EditStaff.g.cs
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\EditStaff.baml
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\EditStaff.g.cs
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\EditStaff.baml
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\AddStaff.g.cs
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\AddStaff.baml
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\Recovery.g.cs
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\RecoveryEmail.g.cs
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\Recovery.baml
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\RecoveryEmail.baml
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\shaki\Desktop\EconSense\EconSense\obj\Debug\net8.0-windows\App.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.exe
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.deps.json
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.runtimeconfig.json
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.pdb
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.AssemblyReference.cache
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Authorization.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Guide.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\Recovery.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\RecoveryEmail.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\EditStaff.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Staffers.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\AddStaff.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\EditStaff.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Drivers.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Menu.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Staff.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense_MarkupCompile.cache
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense_MarkupCompile.lref
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\App.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Authorization.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Guide.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\Recovery.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\RecoveryEmail.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\EditStaff.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Staffers.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\AddStaff.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\EditStaff.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Drivers.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Menu.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Staff.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.g.resources
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.AssemblyInfoInputs.cache
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.AssemblyInfo.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.CoreCompileInputs.cache
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.Up2Date
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\refint\EconSense.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.pdb
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.genruntimeconfig.cache
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\ref\EconSense.dll
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense_Content.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\transport_vehicle.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\transport_vehicle.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Cargos.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Cargos.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Route.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Route.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Choose.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Choose.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\FullWaybill.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\FullWaybill.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Economist.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Economist.baml
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\ViewWaybills.g.cs
+C:\Users\shaki\Desktop\прога\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\ViewWaybills.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.exe
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.deps.json
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.runtimeconfig.json
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.pdb
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.AssemblyReference.cache
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Authorization.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Economist.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Guide.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\Recovery.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\RecoveryEmail.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\EditStaff.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Staffers.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\AddStaff.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\EditStaff.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Cargos.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Choose.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Drivers.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\FullWaybill.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Menu.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Route.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Staff.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\transport_vehicle.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\ViewWaybills.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense_Content.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense_MarkupCompile.cache
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense_MarkupCompile.lref
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\App.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Authorization.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Economist.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Guide.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\Recovery.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\RecoveryEmail.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\EditStaff.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Staffers.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\AddStaff.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\EditStaff.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Cargos.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Choose.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Drivers.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\FullWaybill.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Menu.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Route.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Staff.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\transport_vehicle.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\ViewWaybills.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.g.resources
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.AssemblyInfoInputs.cache
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.AssemblyInfo.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.CoreCompileInputs.cache
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.Up2Date
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\refint\EconSense.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.pdb
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.genruntimeconfig.cache
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\ref\EconSense.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Dismissed .g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Dismissed_employees.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Dismissed .baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Dismissed_employees.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Expenses.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Expenses.baml
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.ResolveComReference.cache
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Report.g.cs
+C:\Users\shaki\Desktop\копия\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Report.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.AssemblyReference.cache
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.ResolveComReference.cache
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Authorization.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Economist.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Guide.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\Recovery.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\RecoveryEmail.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Dismissed .g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\EditStaff.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Staffers.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\AddStaff.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\EditStaff.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Cargos.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Choose.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Dismissed_employees.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Drivers.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Expenses.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\FullWaybill.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Menu.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Report.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Route.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Staff.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\transport_vehicle.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\ViewWaybills.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense_Content.g.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense_MarkupCompile.cache
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense_MarkupCompile.lref
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\refint\EconSense.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.pdb
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.exe
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.deps.json
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.runtimeconfig.json
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.pdb
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\App.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Authorization.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Economist.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Guide.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\Recovery.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\RecoveryEmail.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Dismissed .baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\EditStaff.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Staffers.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\AddStaff.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\EditStaff.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Cargos.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Choose.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Dismissed_employees.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Drivers.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Expenses.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\FullWaybill.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Menu.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Report.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Route.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Staff.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\transport_vehicle.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\ViewWaybills.baml
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.g.resources
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.AssemblyInfoInputs.cache
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.AssemblyInfo.cs
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.CoreCompileInputs.cache
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.Up2Date
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.genruntimeconfig.cache
+C:\Users\shaki\Desktop\Новая папка (2)\EconSense\EconSense\obj\Debug\net8.0-windows\ref\EconSense.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.exe
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.deps.json
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.runtimeconfig.json
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\EconSense.pdb
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.AssemblyReference.cache
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.ResolveComReference.cache
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Authorization.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Economist.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Guide.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\Recovery.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\RecoveryEmail.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Dismissed .g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\EditStaff.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Staffers.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\AddStaff.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\EditStaff.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Cargos.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Choose.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Dismissed_employees.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Drivers.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Expenses.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\FullWaybill.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Menu.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Report.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Route.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Staff.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\transport_vehicle.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\ViewWaybills.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense_Content.g.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense_MarkupCompile.cache
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense_MarkupCompile.lref
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\App.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Authorization.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Economist.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Box\Guide.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\Recovery.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Box\RecoveryPassword\RecoveryEmail.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Dismissed .baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\EditStaff.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Cards\Staffers.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\AddStaff.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Actions\EditStaff.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Cargos.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Choose.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Dismissed_employees.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Drivers.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Expenses.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\FullWaybill.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Menu.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Report.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Route.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\Staff.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\transport_vehicle.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\Pages\ViewWaybills.baml
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.g.resources
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.AssemblyInfoInputs.cache
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.AssemblyInfo.cs
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.CoreCompileInputs.cache
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.csproj.Up2Date
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\refint\EconSense.dll
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.pdb
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\EconSense.genruntimeconfig.cache
+C:\Users\shaki\Desktop\на всякий случай\EconSense\EconSense\obj\Debug\net8.0-windows\ref\EconSense.dll
